@@ -1,2 +1,2 @@
 # Portfolio
-My Custom React Portfolio
+My Next.JS Portfolio
